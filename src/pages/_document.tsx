@@ -12,6 +12,10 @@ class MyDocument extends Document {
             sizes="192x192"
             href="/apple-touch-icon.png"
           ></link>
+            <link
+            href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&display=swap"
+            rel="stylesheet"
+          />
           <link
             rel="alternate"
             type="application/rss+xml"
